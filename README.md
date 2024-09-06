@@ -16,7 +16,7 @@
 
 1. **Клонируйте репозиторий**:
    ```sh
-   git clone https://github.com/ваш_пользователь/TelegramBotVoiceToText.git
+   git clone [https://github.com/ваш_пользователь/TelegramBotVoiceToText.git](https://github.com/AlexKremerRus/TelegramBotVoiceToText.git)
    cd ваш_репозиторий
    ```
 
