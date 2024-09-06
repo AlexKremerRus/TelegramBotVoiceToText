@@ -10,10 +10,6 @@ load_dotenv()
 # Получение токена из переменной окружения
 token = os.getenv('TELEGRAM_BOT_TOKEN')
 
-# Ниже нужно вставить токен, который дал BotFather при регистрации
-# Пример: token = '2007628239:AAEF4ZVqLiRKG7j49EC4vaRwXjJ6DN6xng8'
-# token = '6643255580:AAF6aap6KvQPfstJsy6vaNpAf6rH2aZyeE8'  # <<< Ваш токен
-
 bot = telebot.TeleBot(token)
 
 
