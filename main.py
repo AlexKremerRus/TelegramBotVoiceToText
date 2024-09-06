@@ -65,7 +65,4 @@ def transcript(message):
     bot.send_message(message.chat.id, text)
 
 
-# Запускаем бота. Он будет работать до тех пор, пока работает ячейка
-# (крутится значок слева).
-# Остановим ячейку - остановится бот
 bot.polling()
